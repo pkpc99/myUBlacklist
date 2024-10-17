@@ -1,3 +1,8 @@
+---
+name: uBlacklist scam t-shirt sites
+---
+# Identical-looking websites that take a popular thing, slap it on a shirt, and try to sell it. 
+
 *://*.serenashirt.com/*
 *://*.teeshirtbear.com/*
 *://*.franklywearing.com/*
