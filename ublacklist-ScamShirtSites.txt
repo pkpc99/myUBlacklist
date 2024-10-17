@@ -1,5 +1,6 @@
 ---
 name: uBlacklist scam shirt sites
+homepage: https://github.com/pkpc99/myUBlacklist
 ---
 *://*.serenashirt.com/*
 *://*.teeshirtbear.com/*
